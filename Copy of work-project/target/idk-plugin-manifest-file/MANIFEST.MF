@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven
+Built-By: p.jalocha
+Build-Jdk: 1.6.0_16
+Build-Date: 2011-01-21 09:51:45
+Bundle-Name: com.deltavista.product.ordercheck.dhs.scoreall-jobs
+Bundle-Version: 1.1.0.v20110121-0951
+Repository-Build-Number: 110
+
